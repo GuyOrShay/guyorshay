@@ -13,5 +13,6 @@ I work with Angular, NestJS, Kubernetes, and more 🚀
 ![Guy's GitHub stats](https://github-readme-stats.vercel.app/api?username=guyorshay&show_icons=true&theme=tokyonight)
 
 ## 📫 How to reach me
-- LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/guy-or-shay-a2947722b)
+- LinkedIn: [Guy Or Shay](https://linkedin.com/in/guy-or-shay-a2947722b)
 - Email: guyorshay2406@email.com
+- Website:  [Website](https://orshay.cc)
